@@ -4,8 +4,6 @@ const board = new five.Board({
 })
 
 function play(){
-  console.log("");
-
   const piezo = new five.Piezo(8);
 
   piezo.play({
