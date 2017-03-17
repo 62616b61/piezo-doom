@@ -1,0 +1,22 @@
+{
+  "name": "piezo-doom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/johnny-five/piezo-music.git"
+  },
+  "author": "Cry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/johnny-five/piezo-music/issues"
+  },
+  "homepage": "https://gitlab.com/johnny-five/piezo-music#README",
+  "dependencies": {
+    "johnny-five": "^0.10.6"
+  }
+}
